@@ -4,7 +4,7 @@
 
 【主要解决课程过期后无法观看的问题，下载到本地可永久观看】
 
-工具获取地址：https://pyjun.lanzoue.com/s/course-downloader
+工具获取地址：https://lanzouw.com/b00n4ln4b
 
 ## 安装教程
 从蓝奏云网盘下载最新版学无止下载器后，点击确认一路安装即可
